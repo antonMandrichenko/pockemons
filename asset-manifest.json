@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.715d2da1.chunk.css",
-  "main.js": "/static/js/main.bf338164.chunk.js",
-  "main.js.map": "/static/js/main.bf338164.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.fe00cc9a.chunk.js": "/static/js/2.fe00cc9a.chunk.js",
-  "static/js/2.fe00cc9a.chunk.js.map": "/static/js/2.fe00cc9a.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.026dbaa9b4c66639f5b769fd80c9a2d6.js": "/precache-manifest.026dbaa9b4c66639f5b769fd80c9a2d6.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.715d2da1.chunk.css.map": "/static/css/main.715d2da1.chunk.css.map"
+  "main.css": "/pockemons/static/css/main.715d2da1.chunk.css",
+  "main.js": "/pockemons/static/js/main.447b92e2.chunk.js",
+  "main.js.map": "/pockemons/static/js/main.447b92e2.chunk.js.map",
+  "runtime~main.js": "/pockemons/static/js/runtime~main.d05127db.js",
+  "runtime~main.js.map": "/pockemons/static/js/runtime~main.d05127db.js.map",
+  "static/js/2.fe00cc9a.chunk.js": "/pockemons/static/js/2.fe00cc9a.chunk.js",
+  "static/js/2.fe00cc9a.chunk.js.map": "/pockemons/static/js/2.fe00cc9a.chunk.js.map",
+  "index.html": "/pockemons/index.html",
+  "precache-manifest.9429836f369c2ccb1e4042e980c3ea24.js": "/pockemons/precache-manifest.9429836f369c2ccb1e4042e980c3ea24.js",
+  "service-worker.js": "/pockemons/service-worker.js",
+  "static/css/main.715d2da1.chunk.css.map": "/pockemons/static/css/main.715d2da1.chunk.css.map"
 }
