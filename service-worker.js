@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pockemon/precache-manifest.646d80cc97cb4e22cf71fb72770ade24.js"
+  "/pockemon/precache-manifest.16084eccac440ab7264b499a25cb2284.js"
 );
 
 workbox.clientsClaim();

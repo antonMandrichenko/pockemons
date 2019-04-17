@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/pockemon/static/js/runtime~main.be946391.js"
   },
   {
-    "revision": "48935000d7b9f1fc60f7",
-    "url": "/pockemon/static/js/main.34c59488.chunk.js"
+    "revision": "235d278907bf7403c30a",
+    "url": "/pockemon/static/js/main.c604612e.chunk.js"
   },
   {
     "revision": "a5b85f0922381dbf3f7f",
     "url": "/pockemon/static/js/2.fe00cc9a.chunk.js"
   },
   {
-    "revision": "48935000d7b9f1fc60f7",
+    "revision": "235d278907bf7403c30a",
     "url": "/pockemon/static/css/main.715d2da1.chunk.css"
   },
   {
-    "revision": "7814ce8d0dcc8cca8b70f7ba476f888e",
+    "revision": "e6e17c3aa2b31ee4f69a76cad4979981",
     "url": "/pockemon/index.html"
   }
 ];
